@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/98deb760-5e82-4f98-994d-d81fda673fe4/resourceGroups/basic-sync-rg/providers/Microsoft.Web/sites/basic-sync",
+    "appService.deploySubpath": "."
+}
